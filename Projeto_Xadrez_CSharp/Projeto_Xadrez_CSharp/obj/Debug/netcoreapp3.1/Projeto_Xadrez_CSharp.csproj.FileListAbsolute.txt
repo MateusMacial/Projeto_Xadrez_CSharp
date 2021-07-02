@@ -11,3 +11,16 @@ C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_12\Projeto_Xadrez_
 C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_12\Projeto_Xadrez_CSharp\Projeto_Xadrez_CSharp\obj\Debug\netcoreapp3.1\Projeto_Xadrez_CSharp.dll
 C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_12\Projeto_Xadrez_CSharp\Projeto_Xadrez_CSharp\obj\Debug\netcoreapp3.1\Projeto_Xadrez_CSharp.pdb
 C:\Users\Pichau\Documents\GitHubProjetos\Udemy_C#\ws_vs\secao_12\Projeto_Xadrez_CSharp\Projeto_Xadrez_CSharp\obj\Debug\netcoreapp3.1\Projeto_Xadrez_CSharp.genruntimeconfig.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_12\Projeto_Xadrez_CSharp-master\Projeto_Xadrez_CSharp\Projeto_Xadrez_CSharp\bin\Debug\netcoreapp3.1\Projeto_Xadrez_CSharp.exe
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_12\Projeto_Xadrez_CSharp-master\Projeto_Xadrez_CSharp\Projeto_Xadrez_CSharp\bin\Debug\netcoreapp3.1\Projeto_Xadrez_CSharp.deps.json
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_12\Projeto_Xadrez_CSharp-master\Projeto_Xadrez_CSharp\Projeto_Xadrez_CSharp\bin\Debug\netcoreapp3.1\Projeto_Xadrez_CSharp.runtimeconfig.json
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_12\Projeto_Xadrez_CSharp-master\Projeto_Xadrez_CSharp\Projeto_Xadrez_CSharp\bin\Debug\netcoreapp3.1\Projeto_Xadrez_CSharp.runtimeconfig.dev.json
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_12\Projeto_Xadrez_CSharp-master\Projeto_Xadrez_CSharp\Projeto_Xadrez_CSharp\bin\Debug\netcoreapp3.1\Projeto_Xadrez_CSharp.dll
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_12\Projeto_Xadrez_CSharp-master\Projeto_Xadrez_CSharp\Projeto_Xadrez_CSharp\bin\Debug\netcoreapp3.1\Projeto_Xadrez_CSharp.pdb
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_12\Projeto_Xadrez_CSharp-master\Projeto_Xadrez_CSharp\Projeto_Xadrez_CSharp\obj\Debug\netcoreapp3.1\Projeto_Xadrez_CSharp.csprojAssemblyReference.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_12\Projeto_Xadrez_CSharp-master\Projeto_Xadrez_CSharp\Projeto_Xadrez_CSharp\obj\Debug\netcoreapp3.1\Projeto_Xadrez_CSharp.AssemblyInfoInputs.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_12\Projeto_Xadrez_CSharp-master\Projeto_Xadrez_CSharp\Projeto_Xadrez_CSharp\obj\Debug\netcoreapp3.1\Projeto_Xadrez_CSharp.AssemblyInfo.cs
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_12\Projeto_Xadrez_CSharp-master\Projeto_Xadrez_CSharp\Projeto_Xadrez_CSharp\obj\Debug\netcoreapp3.1\Projeto_Xadrez_CSharp.csproj.CoreCompileInputs.cache
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_12\Projeto_Xadrez_CSharp-master\Projeto_Xadrez_CSharp\Projeto_Xadrez_CSharp\obj\Debug\netcoreapp3.1\Projeto_Xadrez_CSharp.dll
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_12\Projeto_Xadrez_CSharp-master\Projeto_Xadrez_CSharp\Projeto_Xadrez_CSharp\obj\Debug\netcoreapp3.1\Projeto_Xadrez_CSharp.pdb
+C:\Source\Plano de treinamento Mateus Macial\C#\Secao_12\Projeto_Xadrez_CSharp-master\Projeto_Xadrez_CSharp\Projeto_Xadrez_CSharp\obj\Debug\netcoreapp3.1\Projeto_Xadrez_CSharp.genruntimeconfig.cache

@@ -11,6 +11,13 @@
             this.coluna = coluna;
         }
 
+        //Metodo para definir valores de uma posicao mais facilmente
+        public void definirValores(int linha, int coluna)
+        {
+            this.linha = linha;
+            this.coluna = coluna;
+        }
+
         public override string ToString()
         {
             return linha
