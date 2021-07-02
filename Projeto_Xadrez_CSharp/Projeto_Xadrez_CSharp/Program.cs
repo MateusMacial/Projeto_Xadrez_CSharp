@@ -1,5 +1,5 @@
 ﻿using System;
-using Tabuleiro;
+using tabuleiro;
 
 namespace Projeto_Xadrez_CSharp
 {
@@ -7,11 +7,9 @@ namespace Projeto_Xadrez_CSharp
     {
         static void Main(string[] args)
         {
-            Posicao p;
+            Tabuleiro tab = new Tabuleiro(3, 3);
 
-            p = new Posicao(1, 4);
-
-            Console.WriteLine(p);
+            Console.ReadLine();
         }
     }
 }
