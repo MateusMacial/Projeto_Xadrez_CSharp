@@ -21,6 +21,29 @@
             qtdMovimentos++;
         }
 
+        //verifica se a posicao tem pelo menos 1 movimento possivel
+        public bool existeMovimentosPossiveis()
+        {
+            bool[,] mat = movimentosPossiveis();
+            for(int i=0; i<tab.linhas; i++)
+            {
+                for(int j=0; j<tab.colunas; j++)
+                {
+                    if (mat[i, j])
+                    {
+                        return true;
+                    }
+                }
+            }
+            return false;
+        }
+
+        //verifica de uma dada posição pode receber uma peça
+        public bool podeMoverPara(Posicao pos)
+        {
+            return movimentosPossiveis()[pos.linha, pos.coluna];
+        }
+
         //Metodo abstrato para verificar movimentos possiveis da peca
         public abstract bool[,] movimentosPossiveis();
     }
