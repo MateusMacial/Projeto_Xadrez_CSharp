@@ -45,7 +45,7 @@
         }
 
         //verifica de uma dada posição pode receber uma peça
-        public bool podeMoverPara(Posicao pos)
+        public bool movimentoPossivel(Posicao pos)
         {
             return movimentosPossiveis()[pos.linha, pos.coluna];
         }
