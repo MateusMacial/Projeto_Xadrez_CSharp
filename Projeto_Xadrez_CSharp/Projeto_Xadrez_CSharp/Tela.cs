@@ -17,6 +17,10 @@ namespace Projeto_Xadrez_CSharp
             Console.WriteLine();
             Console.WriteLine("Turno: " + partida.turno);
             Console.WriteLine("Aguardando jogada: " + partida.jogadorAtual);
+            if (partida.xeque)
+            {
+                Console.WriteLine("XEQUE!");
+            }
         }
 
         //imprime as peças capturadas
@@ -118,7 +122,7 @@ namespace Projeto_Xadrez_CSharp
                 else
                 {
                     ConsoleColor aux = Console.ForegroundColor;
-                    Console.ForegroundColor = ConsoleColor.Yellow;
+                    Console.ForegroundColor = ConsoleColor.Blue;
                     Console.Write(peca);
                     Console.ForegroundColor = aux;
                 }

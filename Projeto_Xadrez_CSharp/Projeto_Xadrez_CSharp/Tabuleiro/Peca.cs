@@ -21,6 +21,12 @@
             qtdMovimentos++;
         }
 
+        //Decrementa a quantidade de movimentos de uma peca
+        public void decrementarQtdMovimentos()
+        {
+            qtdMovimentos--;
+        }
+
         //verifica se a posicao tem pelo menos 1 movimento possivel
         public bool existeMovimentosPossiveis()
         {
